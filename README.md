@@ -115,9 +115,16 @@ Flatten → Fully Connected (450 → 128)
 ## 📊 Results (Sample Output)
 
 ```
-Epoch [1/10] 
-Train Accuracy: 97.56%
-Test Accuracy: 97.53%
+Epoch [1/10]  Train Accuracy: 97.56%   Test Accuracy: 97.53%
+Epoch [2/10]  Train Accuracy: 98.43%   Test Accuracy: 98.35%
+Epoch [3/10]  Train Accuracy: 98.86%   Test Accuracy: 98.57%
+Epoch [4/10]  Train Accuracy: 98.88%   Test Accuracy: 98.63%
+Epoch [5/10]  Train Accuracy: 98.91%   Test Accuracy: 98.61%
+Epoch [6/10]  Train Accuracy: 99.28%   Test Accuracy: 98.86%
+Epoch [7/10]  Train Accuracy: 99.33%   Test Accuracy: 98.82%
+Epoch [8/10]  Train Accuracy: 99.50%   Test Accuracy: 98.99%
+Epoch [9/10]  Train Accuracy: 99.40%   Test Accuracy: 98.83%
+Epoch [10/10]  Train Accuracy: 99.57%   Test Accuracy: 98.96%
 ```
 
 Model converges quickly and performs well on both training and test sets.
